@@ -1,15 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>index</title>
-<style>* { font-family: monospace; }</style>
-<script>
-
 var favMovie = prompt("Enter your favorite Movie.");
 alert("Your favorite movie is: "+favMovie); 
 
-</script>
-</head>
-<body></body>
-</html>
