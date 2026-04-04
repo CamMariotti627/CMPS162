@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-var favMovie = prompt("Enter your favorite Movie.");
-alert("Your favorite movie is: "+favMovie); 
+<script>
+    var favMovie = prompt("Enter your favorite Movie.");
+    alert("Your favorite movie is: "+favMovie); 
+</script>
 </head>
 <body>
 </body>
