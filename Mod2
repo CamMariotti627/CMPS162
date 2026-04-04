@@ -1,1 +1,4 @@
+var favMovie = prompt("Enter your favorite Movie.");
+alert("Your favorite movie is: "+favMovie); 
+
 
